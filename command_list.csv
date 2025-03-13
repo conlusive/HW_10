@@ -1,0 +1,438 @@
+    1  sudo xattr -rd com.apple.quarantine /Applications/LockedApp.app
+    2  sudo spctl --master-disable
+    3  /Volumes/CCleaner\ 1.18.30/Open\ Gatekeeper\ friendly ; exit;
+    4  /Volumes/CCleaner\ 1.18.30/Open\ Gatekeeper\ friendly ; exit;
+    5  /usr/local/bin/python3 Untitled-1
+    6  /usr/local/bin/python3 Untitled-1
+    7  /usr/local/bin/python3 "/Users/yaroslavkozopas/Desktop/python/x = ("a", "b").py"
+    8  /usr/local/bin/python3 "/Users/yaroslavkozopas/Desktop/python/x = ("a", "b").py"
+    9  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   10  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   11  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   12  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   13  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   14  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   15  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   16  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   17  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   18  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   19  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/python/main.py
+   20  /usr/local/bin/python3 /Users/yaroslavkozopas/Desktop/Python/Study/Main.py
+   21  pip instal telebot
+   22  pip install telebot
+   23  git --version
+   24  pip install telebot
+   25  git --version
+   26  git init
+   27  git add
+   28  git add .
+   29  git commit -m "new repos"
+   30  gh
+   31  git push
+   32  git init\ngit add README. md\ngit commit -m "first commit"\ngit branch -M main\ngit push -u origin main
+   33  git init
+   34  git commit -m "first commit"
+   35  git branch -M main
+   36  git remote add origin 
+   37  git remote add origin https://github.com/traydee/testBot.git
+   38  git push -u origin main
+   39  git push -u origin main
+   40  git push -u origin main
+   41  Kozop_nw22
+   42  git push -u origin main
+   43  git push -u origin main
+   44  git push -u origin main
+   45  git init
+   46  git commit -m "first commit"
+   47  git add .
+   48  "git add"
+   49  git add .
+   50  git branch -M main
+   51  git remote add origin https://github.com/testBot.git
+   52  git push -u origin main
+   53  gh auth login
+   54  git status
+   55  git push -u origin main
+   56   git push -u origin main
+   57  pip install telebot
+   58  git add.
+   59  git commit -m "update"
+   60  git push
+   61  git commit -m "update"\n
+   62  git commit -m "update"
+   63  git add .
+   64  git commit -m "update"
+   65  git push
+   66  git remote add origin https://github.com/username/repo.git
+   67  git remote -v
+   68  pip install aiohttp\n
+   69  pip install python-telegram-bot\n
+   70  pip install --upgrade pip
+   71  git init
+   72  git add .
+   73  git commit -m "Initial commit: Added main.py and README.md"
+   74  git remote add origin https://github.com/1close/simple_project.git
+   75  git branch -M main
+   76  git push -u origin main
+   77  git push -u origin main
+   78  git push -u origin main
+   79  git push -u origin main\n
+   80  ssh-keygen -t rsa -b 4096 -C "your-email@example.com"\n
+   81  git@github.com:1close/simple_project.git
+   82  ssh-keygen -t rsa -b 4096 -C "your-email@example.com"\n
+   83  git remote add origin
+   84  git remote add origin https://github.com/1close/simple_project.git
+   85  git branch -M main
+   86  git push -u origin main
+   87  git push -u origin main
+   88  git remote add origin https://github.com/1close/simple_project.git
+   89  git branch -M main
+   90  git push -u origin main
+   91  git remote -v\n
+   92  git push -u origin main
+   93  git init
+   94  git add .
+   95  git commit -m "Add loop for"
+   96  git add .
+   97  gt commit -m "Add while var2"
+   98  git commit -m "Add while var2"
+   99  git log
+  100  git log --oneline
+  101  git add .
+  102  git commit -m "Add 2 file"
+  103  pip install gspread oauth2client
+  104  git clone git@github.com:1close/demo-qa.git
+  105  git clone
+  106  git clone git@github.com:1close/QA-Demo.git
+  107  git init
+  108  git add README.md
+  109  ls -al ~/.ssh\n
+  110  ssh-keygen -t ed25519 -C "neofzzi@gmail.com"
+  111  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519\n
+  112  cat ~/.ssh/id_ed25519.pub\n
+  113  ls -al ~/.ssh\n
+  114  ssh-keygen -t ed25519 -C "neofzzi@gmail.com"
+  115  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519\n
+  116  cat ~/.ssh/id_ed25519.pub\n
+  117  ssh-keygen -t ed25519 -C "neofzzi@gmail.com"
+  118  eval "$(ssh-agent -s)"\nssh-add ~/.ssh/id_ed25519_new\n
+  119  cat ~/.ssh/id_ed25519_new.pub\n
+  120  cat ~/.ssh/id_ed25519.pub\n
+  121  ssh-keygen -l -f ~/.ssh/id_ed25519.pub\n
+  122  ssh -T git@github.com\n
+  123  python3 -m venv venv
+  124  pip install pytest
+  125  pip install --upgrade pip
+  126  pip freeze
+  127  pytest
+  128  pytest
+  129  pytest -v
+  130  pytest -v -s
+  131  pytest -v -s
+  132  pytest -v -s
+  133  pytest -v -s
+  134  pip install selenium
+  135  pip freeze › requirements.txt
+  136  pip freeze > requirements.txt
+  137  pytest test_site.py
+  138  pytest test_site.py
+  139  pytest test_site.py
+  140  pytest test_site.py
+  141  pytest test_site.py
+  142  pytest test_site.py
+  143  pytest test_site.py
+  144  pytest test_site.py
+  145  pytest test_site.py
+  146  pytest test_site.py
+  147  pytest test_site.py
+  148  pytest test_site.py -v 
+  149  pytest test_site.py
+  150  pytest test_site.py
+  151  pytest test_site.py
+  152  pytest test_site.py
+  153  git reset
+  154  git restart
+  155  git --help
+  156  git push
+  157  git restore
+  158  git rm
+  159  pytest 
+  160  pytest test_site.py 
+  161  git init
+  162  /User/yaroslavkozopas/Desktop/VSC/valentine/git
+  163  git init
+  164  git add .
+  165  git commit -m " Initial commit"
+  166  git remote add origin https://github.com/conlusive/valentines-day-site.git
+  167  git push -u origin main
+  168  git push -u origin mai
+  169  git push -u origin mai
+  170  pwd\n
+  171  git status 
+  172  git branch -M main\n
+  173  git remote add origin https://github.com/conlusive/valentines-day-site.git\n
+  174  git remote add origin https://github.com/conlusive/valentine.git 
+  175  git push -u origin main\n
+  176  git remote add origin https://github.com/conlusive/valentines-day-site.git\n
+  177  git remote remove origin
+  178  git remote add origin https://github.com/conlusive/valentine.git
+  179  git push -u origin main\n
+  180  pip install selenium
+  181  pip install --upgrade pip
+  182  pip install pytest
+  183  pytest 
+  184  pytest -n def.py
+  185  pytest def.py
+  186  pytest test_demo.py
+  187  pytest test_def.py
+  188  pytest test_def.py
+  189  pytest test_def.py
+  190  pytest test_def.py
+  191  pytest test_def.py
+  192  pytest test_def.py
+  193  pip install fake-useragent
+  194  pip install --upgrade pip
+  195  git delete
+  196  rm -rf .git\n
+  197  git remove
+  198  git --help
+  199  git delete branch
+  200  git -version
+  201  git --version
+  202  cd test_rep
+  203  cd Desktop/test_rep
+  204  -c && rm ~
+  205  c && rm ~
+  206  clear
+  207  man ls
+  208  ls
+  209  ls
+  210  clear
+  211  cd ..
+  212  clear
+  213  cd ..
+  214  ls
+  215  cd Desktop
+  216  cd ~
+  217  ls
+  218  cd Desktop
+  219  ls
+  220  cd test_rep
+  221  pwd
+  222  cd .. 
+  223  cd ..
+  224  pwd
+  225  cd Desktop
+  226  cd test_rep
+  227  pwd
+  228  clear
+  229  cd ..
+  230  mkdir test_rep
+  231  ls
+  232  touch empty.txt
+  233  pwd
+  234  clear
+  235  ls
+  236  vim empty.txt
+  237  vim empty.txt
+  238  nano empty.txt
+  239  cat empty.txt
+  240  cp empty.txt
+  241  cp pwd
+  242  pwd
+  243  cp /Users/yaroslavkozopas/Desktop/empty.txt /Users/yaroslavkozopas/Downloads
+  244  mv /Users/yaroslavkozopas/Downloads/empty.txt /Users/yaroslavkozopas/Desktop
+  245  mv /Users/yaroslavkozopas/Desktop/empty.txt /Users/yaroslavkozopas/Documents
+  246  mv /Users/yaroslavkozopas/Documents/empty.txt /Users/yaroslavkozopas/Desktop
+  247  ping
+  248  ping google.com
+  249  data
+  250  date
+  251  df -h
+  252  ifconfig
+  253  clear
+  254  whoami
+  255  touch test_rep
+  256  ls
+  257  rm test_rep
+  258  cd Desktop
+  259  touch test_rep
+  260  rm test_rep
+  261  mkdir test_rep
+  262  cd test_rep
+  263  clear
+  264  git config --global user.name "Yaroslav Kozopas "
+  265  git config --global user.email yaroslavkozopas165@gmail.com
+  266  git clone https://github.com/conlusive/HW_10.git
+  267  git status
+  268  cd HW_10
+  269  git status
+  270  touch empty.txt
+  271  git status
+  272  git git add empty.txt
+  273  git add empty.txt
+  274  git status
+  275  git commit -m "New file created"
+  276  git status
+  277  git log
+  278  git branch
+  279  git checkout -b new_branch
+  280  git branch
+  281  git checkout main
+  282  git branch
+  283  git checkout new_branch
+  284  nano empty.txt
+  285  git status
+  286  git add empty.txt
+  287  git status
+  288  git checkout main
+  289  git ranch
+  290  git branch
+  291  git merge new_branch
+  292  git branch
+  293  git status
+  294  git commit
+  295  git commit "New modified"
+  296  git oush
+  297  git push
+  298  git push
+  299  clear
+  300  history -c && ~/.bash_history
+  301  history-c && ~/.bash_history
+  302  clear
+  303  touch text_ignore.txt
+  304  nano .gitignore
+  305  git status
+  306  rm empty.txt
+  307  rm empty.txt
+  308  git status
+  309  git status
+  310  clear
+  311  git clone https://github.com/conlusive/HW_10.git
+  312  cd Desktop
+  313  cd test_rep
+  314  git touch text_ignore.txt
+  315  git touch text_ignore.txt
+  316  clear
+  317  git status
+  318  git clone https://github.com/conlusive/HW_10.git
+  319  git status
+  320  clear
+  321  git touch text_ignore.txt
+  322  cd Desktop
+  323  cd test_rep
+  324  git touch text_ignore.txt
+  325  git --help
+  326  clear
+  327  touch text_ignore.txt
+  328  rm text_ignore.txt
+  329  cd HW_10
+  330  touch text_ignore.txt
+  331  nano .gitignore
+  332  git status
+  333  touch .gitignore
+  334  nano .gitignore
+  335  git status
+  336  git checkout
+  337  git status
+  338  clear
+  339  git status
+  340  git add
+  341  git add .
+  342  git commit "first"
+  343  git commit
+  344  touch main_test.txt
+  345  git add .
+  346  git commit 'second'
+  347  git commit
+  348  git checkout -b develop
+  349  touch develop_test.txt
+  350  git add .
+  351  git commit 
+  352  nano develop_test.txt
+  353  git status
+  354  git add .
+  355  git commit 
+  356  git checkout main
+  357  git merge develop
+  358  git log
+  359  cd Desktop
+  360  cd test_rep
+  361  HW_10
+  362  cd HW_10
+  363  clear
+  364  git clone https://github.com/conlusive/HW_10.git
+  365  clear
+  366  git status
+  367  rm HW_10
+  368  git status
+  369  git checkout main
+  370  git merge develop
+  371  git log
+  372  cd Desktop
+  373  cd test_rep
+  374  cd HW_10
+  375  clear
+  376  git clone https://github.com/conlusive/HW_10.git
+  377  clean
+  378  clean
+  379  clean
+  380  clear
+  381  history > command_list.csv
+  382  git add .
+  383  git commit
+  384  git push 
+  385  git push
+  386  git push
+  387  clear
+  388  git push
+  389  git push
+  390  git push
+  391  git config --global.email
+  392  git config --global user.email neofzzi@gmail.com
+  393  git config --global user.name conlusive
+  394  git push
+  395  clear
+  396  git status
+  397  git checkout main
+  398  git push
+  399  cd D
+  400  clear
+  401  cd Desktop
+  402  mkdir test_rep
+  403  cd test_rep
+  404  git clone https://github.com/conlusive/HW_10.git
+  405  cd HW_10
+  406  touch text_ignore.txt
+  407  nano .gitignore
+  408  git status
+  409  nano .gitignore
+  410  git status
+  411  touch .gitignore
+  412  git status
+  413  clear
+  414  git status
+  415  nano .gitignore
+  416  git status
+  417  clear
+  418  echo "text_ignore.txt" >> .gitignore
+  419  git status
+  420  git add .
+  421  git commit "1"
+  422  git commit
+  423  touch main_test.txt
+  424  git add .
+  425  git commit
+  426  git checkout -b develop
+  427  touch develop_test.txt
+  428  git add .
+  429  git commit
+  430  nano develop_test.txt
+  431  git status
+  432  git add .
+  433  git status
+  434  git commit 
+  435  git checkout main
+  436  git merge develop
+  437  git status
+  438  git log
